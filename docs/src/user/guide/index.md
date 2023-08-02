@@ -12,7 +12,9 @@
 [//]: # "__copyright__ = ('Copyright 2023, Unicef')"
 [//]: # "__copyright__ = ('Copyright 2023, Unicef')"
 
-# Introduction
+# User Guide
+
+This section of the documentation describes a narrative on how to use the platform. The guide is intended to function as narrative / workflow based tutorials for the platform. For more in-depth explanations of all functionality, you may prefer to look at our [user manual](../manual/index.md).
 
 ## What is the Risk Informed Response platform?
 
@@ -28,3 +30,18 @@ The platform provides a way to understand risk modalities across different geogr
 * **Harvesters** that can automatically update indicators from different data sources such as web API's
 * a complete and **user friendly administration** environment to manage the system
 * Role based **user management**
+
+## Sections of the Guide
+
+1. [Platform Tour](platform-tour.md): This is an overview tour of the GeoSight Platform.
+2. [Map Interactions](map-interactions.md): This is an explanation of how a user can interact with the map.
+3. [Indicators](indicator.md): This section is an explanation of the indicators on the platform.
+      1. [Adding Indicators](adding-indicators.md): This section explains how a user can add indicators to GeoSight.
+4. [Layers](layers.md): This section explains how users can interact with layers on GeoSight.
+5. [User Tutorial](user-tutorial.md): This is a tutorial on how a user can use GeoSight.
+6. [Projects](projects.md): This section explains how GeoSight uses projects to organise information.
+      1. [Sharing Projects](sharing-projects.md): This shows how projects can be shared.
+7. [Data Access](data-access.md): This is an explanation of accessing data on GeoSight.
+8. [Disclaimer](../../about/disclaimer.md): This is the project disclaimer.
+9. [Credits](../../about/credits.md): These are the credits relating to the project.
+10. [License](../../about/license.md): This is the project license.
