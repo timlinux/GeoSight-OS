@@ -14,7 +14,7 @@
 
 # User Guide
 
-This section of the documentation describes a narrative on how to use the platform. The guide is intended to function as narrative / workflow based tutorials for the platform. For more in-depth explanations of all functionality, you may prefer to look at our [user manual](../manual/index.md).
+This section of the documentation describes a narrative for users on how to use the platform. The guide is intended to function as narrative / workflow based tutorials for the platform. For more in-depth explanations of all functionality, you may prefer to look at our [user manual](../manual/index.md).
 
 ## What is the Risk Informed Response platform?
 

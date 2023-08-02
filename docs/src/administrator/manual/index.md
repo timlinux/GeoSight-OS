@@ -12,5 +12,13 @@
 [//]: # "__copyright__ = ('Copyright 2023, Unicef')"
 [//]: # "__copyright__ = ('Copyright 2023, Unicef')"
 
-# Administrator Reference Manual
+# Administrator Manual
 <!-- Replace all of the titles with relevant titles -->
+
+This section of the documentation describes every page administrator page in the application and what the various components of that page do. The manual is intended to function as a reference for the application. For narrative / workflow based tutorials, you may prefer to work through our [administrator guide](../guide/index.md).
+
+## Sections of the Guide
+
+1. [Basemap Layers](basemap-layers.md)
+2. [Contextual Layers](context-layers.md)
+3. [Provisioning Reference Layers](reference-layers.md)
