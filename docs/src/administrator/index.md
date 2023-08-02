@@ -16,4 +16,7 @@
 
 This is the homepage for all administrator related documentation.
 
-![Screenshot](../img/screenshot.png)
+The administrator content is divided into two sections:
+
+* The [user guide](guide/index.md), which describes common workflows in a tutorial format.
+* The [user manual](manual/index.md), which describes each page of the user interface and what the various options on that page do.

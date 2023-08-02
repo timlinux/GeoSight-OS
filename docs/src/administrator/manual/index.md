@@ -19,6 +19,6 @@ This section of the documentation describes every page administrator page in the
 
 ## Sections of the Guide
 
-1. [Basemap Layers](basemap-layers.md)
-2. [Contextual Layers](context-layers.md)
-3. [Provisioning Reference Layers](reference-layers.md)
+1. [Basemap Layers](basemap-layers.md): This is an explanation of basemaps on the website.
+2. [Contextual Layers](context-layers.md): This section looks at the context layers on the website.
+3. [Provisioning Reference Layers](reference-layers.md): This shows how reference layers are implemented on GeoSight.

@@ -36,12 +36,12 @@ The platform provides a way to understand risk modalities across different geogr
 1. [Platform Tour](platform-tour.md): This is an overview tour of the GeoSight Platform.
 2. [Map Interactions](map-interactions.md): This is an explanation of how a user can interact with the map.
 3. [Indicators](indicator.md): This section is an explanation of the indicators on the platform.
-      1. [Adding Indicators](adding-indicators.md): This section explains how a user can add indicators to GeoSight.
-4. [Layers](layers.md): This section explains how users can interact with layers on GeoSight.
-5. [User Tutorial](user-tutorial.md): This is a tutorial on how a user can use GeoSight.
-6. [Projects](projects.md): This section explains how GeoSight uses projects to organise information.
-      1. [Sharing Projects](sharing-projects.md): This shows how projects can be shared.
-7. [Data Access](data-access.md): This is an explanation of accessing data on GeoSight.
-8. [Disclaimer](../../about/disclaimer.md): This is the project disclaimer.
-9. [Credits](../../about/credits.md): These are the credits relating to the project.
-10. [License](../../about/license.md): This is the project license.
+4. [Adding Indicators](adding-indicators.md): This section explains how a user can add indicators to GeoSight.
+5. [Layers](layers.md): This section explains how users can interact with layers on GeoSight.
+6. [User Tutorial](user-tutorial.md): This is a tutorial on how a user can use GeoSight.
+7. [Projects](projects.md): This section explains how GeoSight uses projects to organise information.
+8. [Sharing Projects](sharing-projects.md): This shows how projects can be shared.
+9. [Data Access](data-access.md): This is an explanation of accessing data on GeoSight.
+10. [Disclaimer](../../about/disclaimer.md): This is the project disclaimer.
+11. [Credits](../../about/credits.md): These are the credits relating to the project.
+12. [License](../../about/license.md): This is the project license.
