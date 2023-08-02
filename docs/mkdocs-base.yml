@@ -58,8 +58,9 @@ nav:
                                         - Adding Indicators: user/guide/adding-indicators.md
                                 - Layers: user/guide/layers.md
                                 - User Tutorial: user/guide/user-tutorial.md
-                                - Projects: user/guide/projects.md
-                                - Sharing Projects: user/guide/sharing-projects.md
+                                - Projects: 
+                                        - user/guide/projects.md
+                                        - Sharing Projects: user/guide/sharing-projects.md
                                 - Data Access: user/guide/data-access.md
                                 - Disclaimer: about/disclaimer.md
                                 - Credits: about/credits.md
