@@ -1,3 +1,13 @@
+---
+title: GeoSight-OS Documentation Home 
+summary: Documentation for the GeoSight-OS project.
+authors:
+    - Tim Sutton
+    - Irwan Fathurrahman
+date: 2023-07-
+some_url: https://example.com
+context_id: 1234
+---
 [//]: # "GeoSight is UNICEF's geospatial web-based business intelligence platform."
 [//]: # 
 [//]: # "Contact : geosight-no-reply@unicef.org"
@@ -18,7 +28,7 @@ GeoSight is a UNICEF’s open-source geospatial web-based data visualization/ana
 ![Screenshot](img/screenshot.png)
 
 
-## Introduction
+## Introduction {#123}
 
 The GeoSight platform was developed to help organisations with operational planning. It 
 harvests and aggregates data linked to management areas (e.g. national and subnational boundaries).
