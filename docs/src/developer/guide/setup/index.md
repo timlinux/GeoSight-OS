@@ -15,3 +15,10 @@
 # Setup
 
 This document covers how you can set up the project, for production and development environment setup.
+
+## Sections of the Setup
+
+1. [Installation](./installation/index.md)
+2. [Development Setup](./installation/development-setup/index.md)
+3. [Developer Road Map](./roadmap.md)
+4. [Configuration](./configuration/index.md)

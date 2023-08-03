@@ -12,70 +12,16 @@
 [//]: # "__copyright__ = ('Copyright 2023, Unicef')"
 [//]: # "__copyright__ = ('Copyright 2023, Unicef')"
 
-# GeoSight
+# Developer Guide
 
-## QUICK INSTALLATION GUIDE
+This section of the documentation describes a narrative for developers on how to get started with contributing to the project. The guide is intended to function as narrative / workflow based tutorials for developers. For more in-depth explanations of non-narrative development aspects, you can refer to the [developer manual](../manual/index.md).
 
-### Production
+## Sections of the Guide
 
-```
-git clone https://github.com/unicef-drp/GeoSight
-cd GeoSight/deployment
-docker-compose up -d
-```
-
-The web will be available at `http://127.0.0.1/`
-
-To stop containers:
-
-```
-docker-compose kill
-```
-
-To stop and delete containers:
-
-```
-docker-compose down
-```
-
-### Development
-
-```
-git clone https://github.com/unicef-drp/GeoSight
-cd GeoSight/deployment
-cp .template.env .env
-docker-compose.override.template.yml docker-compose.override.yml
-
-cd GeoSight
-make up
-make dev
-```
-
-The web will be available at `http://localhost:2000/`
-
-To stop dev:
-
-```
-make dev-kill
-```
-
-To reload container:
-
-```
-make dev-reload
-```
-
-### Setup onedrive
-
-1. Download onedrive by `sudo apt-get install onedrive`
-2. Execute `onedrive --get-O365-drive-id '<your site name to search>'`
-3. It will ask to click an url and put back the url that created on browser
-4. It will show an information. Check drive_id and copy it.
-5. Open file deployment/onedrive/config and put it to drive_id
-6. `make onedrive-firstrun` to run first config
-7. It will ask to click an url and put back the url that created on browser
-8. Wait the system to finish the sync
-9. After that we can stop it and do `make up`
-
-More information:
-https://github.com/abraunegg/onedrive/blob/master/docs/SharePoint-Shared-Libraries.md
+1. [Project Prequisites](project-prerequisites.md)
+2. [IDE to Use](ide-to-use.md)
+3. [Checking Out the Code](checking-out-the-code.md)
+4. [Building/Compiling the Code](building-compiling-code.md)
+5. [Running Instances](running-instances.md)
+6. [Setup](./setup/index.md)
+7. [Developer Workflows](developer-workflows.md)

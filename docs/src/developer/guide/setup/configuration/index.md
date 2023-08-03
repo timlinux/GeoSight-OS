@@ -12,9 +12,11 @@
 [//]: # "__copyright__ = ('Copyright 2023, Unicef')"
 [//]: # "__copyright__ = ('Copyright 2023, Unicef')"
 
-# Development Environment
+# Configuration
+<!-- To Be Populated -->
 
-This section is for development setup, so we can develop the project and check the changes in runtime.
-The sections depend on what interpreter that you use.
+This section is for configuring features as a developer.
 
-1. [Using pycharm](pycharm.md)
+## Sections of the Configuration
+
+1. 

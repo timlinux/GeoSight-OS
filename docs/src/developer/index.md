@@ -16,4 +16,11 @@
 
 This is the homepage for all developer related documentation.
 
-![Screenshot](../img/screenshot.png)
+The developer content is divided into six sections:
+
+* The [developer guide](guide/index.md), which describes common workflows in a tutorial format.
+* The [platform architecture](./architecture/index.md), which describes the architecture of the platform.
+* The [developer documentation](./documentation/index.md), which describes how developers should set up the auto-documentation for the project.
+* The [developer manual](manual/index.md), which describes non-narrative aspects of development in an in-depth manner.
+* The [API documentation](./api/index.md), which describes the API of the platform.
+* The [design documentation](./design/index.md), which describes the design criteria to be followed when developing the project.
