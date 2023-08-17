@@ -70,7 +70,7 @@
     "jquery": "^3.6.0",
     "js-cookie": "3.0.5",
     "js-sql-parser": "^1.4.1",
-    "leaflet": "~1.8.0",
+    "leaflet": "~1.9.4",
     "leaflet-draw": "^1.0.4",
     "leaflet-measure-v2": "^3.1.6",
     "leaflet-navbar": "^1.0.0",
