@@ -201,7 +201,7 @@ Once you have committed your changes, Click on the burger menu 1️⃣ and then 
 
 ![Web Editor 7](img/web-editor-7.png)
 
-Your fork of the repository will be opened in a new tab within your browser, navigate to that tab (your browser might block pop ups, so you might need to manually open the pop up to get back to your fork of the repository). Once there, ensure you are on the `main` 1️⃣ (you should see how many commits ahead of the upstream branch you are), then click on `Contribute` 2️⃣ -> `Open pull request` 3️⃣️.
+Your fork of the repository will be opened in a new tab within your browser, navigate to that tab (your browser might block pop ups, so you might need to manually open the pop up to get back to your fork of the repository). Once there, ensure you are on the `main` branch 1️⃣ (you should see how many commits ahead of the upstream branch you are), then click on `Contribute` 2️⃣ -> `Open pull request` 3️⃣️.
 
 ![Pull Request 1](img/pull-request-1.png)
 
@@ -246,7 +246,7 @@ Once you have committed your changes, Click on the burger menu 1️⃣ and then 
 
 ![Web Editor 7](img/web-editor-7.png)
 
-Your fork of the repository will be opened in a new tab within your browser, navigate to that tab (your browser might block pop ups, so you might need to manually open the pop up to get back to your fork of the repository). Once there, ensure you are on the `main` 1️⃣ (you should see how many commits ahead of the upstream branch you are), then click on `Contribute` 2️⃣ -> `Open pull request` 3️⃣️.
+Your fork of the repository will be opened in a new tab within your browser, navigate to that tab (your browser might block pop ups, so you might need to manually open the pop up to get back to your fork of the repository). Once there, ensure you are on the `main` branch 1️⃣ (you should see how many commits ahead of the upstream branch you are), then click on `Contribute` 2️⃣ -> `Open pull request` 3️⃣️.
 
 ![Pull Request 1](img/pull-request-1.png)
 
