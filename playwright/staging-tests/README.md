@@ -1,7 +1,8 @@
 # Validation Tests
 
-These tests are designed to run from your local machine (i.e. not from a GitHub action or CI).
-The are intended to verify basic functionality is working after a deployment is made to staging, and prior to deployment to production.
+These tests are designed to run from your local machine (i.e. not from a GitHub
+action or CI). The are intended to verify basic functionality is working after
+a deployment is made to staging, and prior to deployment to production.
 
 ## Essential reading:
 
@@ -33,22 +34,24 @@ There is a bash helper script that will let you quickly create a new test:
 ```
 Usage: ./record-test.sh TESTNAME
 e.g. ./record-test.sh mytest
-will write a new test to tests/mytest.py
+will write a new test to tests/mytest.spec.ts
 Do not use spaces in your test name.
+Test files MUST END in .spec.ts
 
 After recording your test, close the test browser.
 You can then run your test by doing:
-pytest tests/mytest.py
+./run-tests.sh
 ```
 
 
->  The first time you record a test, it will store your session credentials in a file ending in ``auth.json``. This file should **NEVER** be committed to git / shared publicly. There is a gitignore rule to ensure this.
+>  The first time you record a test, it will store your session credentials in
+a file ending in ``auth.json``. This file should **NEVER** be committed to git
+/ shared publicly. There is a gitignore rule to ensure this.
 
 ## Running a test
 
-
 ```
-pytest test/mytest.py
+./run-tests.sh
 ```
 
 ---
