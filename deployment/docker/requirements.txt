@@ -11,7 +11,7 @@
 # __date__ = '13/06/2023'
 # __copyright__ = ('Copyright 2023, Unicef')
 
-Django==3.2.16
+Django==4.2.16
 django-braces==1.15.0
 django-celery-beat==2.4.0
 django-celery-results==2.4.0
@@ -37,3 +37,4 @@ pyjwt==2.6.0
 msal==1.21.0
 selenium==4.10.0
 webdriver-manager==3.8.6
+cryptography>=43.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
